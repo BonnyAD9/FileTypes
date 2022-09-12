@@ -214,7 +214,7 @@ Total size: 56
 
 | Size | Index | Name                  | Description                       | Value                     |
 |------|-------|-----------------------|-----------------------------------|---------------------------|
-| 4    | 0     | Size                  | size of this header               | 52                        |
+| 4    | 0     | Size                  | size of this header               | 56                        |
 | 4    | 4     | Width                 | bitmap width in pixels            | LE signed                 |
 | 4    | 8     | Height                | bitmap height in pixels           | LE signed                 |
 | 2    | 12    | Plane Count           | number of color planes            | 1                         |
@@ -295,7 +295,7 @@ Total size: 108
 
 | Size | Index | Name                  | Description                       | Value                     |
 |------|-------|-----------------------|-----------------------------------|---------------------------|
-| 4    | 0     | Size                  | size of this header               | 52                        |
+| 4    | 0     | Size                  | size of this header               | 108                       |
 | 4    | 4     | Width                 | bitmap width in pixels            | LE signed                 |
 | 4    | 8     | Height                | bitmap height in pixels           | LE signed                 |
 | 2    | 12    | Plane Count           | number of color planes            | 1                         |
@@ -352,7 +352,7 @@ Total size: 124
 
 | Size | Index | Name                  | Description                                        | Value                     |
 |------|-------|-----------------------|----------------------------------------------------|---------------------------|
-| 4    | 0     | Size                  | size of this header                                | 52                        |
+| 4    | 0     | Size                  | size of this header                                | 124                       |
 | 4    | 4     | Width                 | bitmap width in pixels                             | LE signed                 |
 | 4    | 8     | Height                | bitmap height in pixels                            | LE signed                 |
 | 2    | 12    | Plane Count           | number of color planes                             | 1                         |
