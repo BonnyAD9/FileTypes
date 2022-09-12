@@ -15,6 +15,9 @@
 - `a << b` specifies that `a` is shifted left by `b` bits
 - `a >> b` specifies that `a` is shifted right by `b` bits
 - `a | b` specifies flags with values `a` and `b`
+- `string` specifies string in ASCII encoding, unless specified othervise
+- `numeric string` specifies string with only digits
+- `signed numeric string` specifies string with a optional sign (`+` or `-`) followed by digits
 
 ## Fields
 - Index is specified in bytes
