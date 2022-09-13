@@ -1,10 +1,13 @@
 # Table Of Contents
 - [Table Of Contents](#table-of-contents)
 - [General](#general)
+- [Structure](#structure)
     - [List Of Genres](#list-of-genres)
         - [Standard](#standard)
+- [Sources](#sources)
 
 # General
+- Usually used in mp3 files
 - Stored at the end of the file
 - non numeric strings are padded either with NULL (`\0`) or spaces (` `)
 
